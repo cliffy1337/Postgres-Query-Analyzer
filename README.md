@@ -252,18 +252,18 @@ mode = "cli"
 
 ## Development Roadmap
 
-### Phase 1 (Week 1)
+### Phase 1
 
 * Project scaffolding
 * Log ingestion
 * Basic parsing
 
-### Phase 2 (Week 2)
+### Phase 2
 
 * Aggregation engine
 * Fingerprinting
 
-### Phase 3 (Week 3)
+### Phase 3
 
 * Pattern detection (N+1)
 * CLI output
