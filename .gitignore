@@ -1,0 +1,21 @@
+# Rust build artifacts
+/target
+
+# Logs
+*.log
+
+# Environment / config overrides
+.env
+config/local.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Backup / temp files
+*.swp
+*.tmp
